@@ -5,8 +5,6 @@
 An easy way to get started with a Express server with Node.js.
 
 ## Features
-
-* Babel 7
 * Environment Variables
 * Express
 
